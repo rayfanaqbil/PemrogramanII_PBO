@@ -65,13 +65,13 @@ namespace P3_1_714220044
                     Console.WriteLine("sangat baik");
                     break;
                 case 'B':
-                    Console.WriteLine("sangat baik");
+                    Console.WriteLine("Baik");
                     break;
                 case 'C':
-                    Console.WriteLine("sangat baik");
+                    Console.WriteLine("Cukup");
                     break;
                 case 'D':
-                    Console.WriteLine("sangat baik");
+                    Console.WriteLine("Buruk");
                     break;
                 default:
                     Console.WriteLine("invalid indeks prestasi");
