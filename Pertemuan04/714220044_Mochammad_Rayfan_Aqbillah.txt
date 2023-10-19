@@ -1,0 +1,15 @@
+Bagian 1
+
+14. Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS0122	'Product_714220044.myType' is inaccessible due to its protection level	P4_1_714220044	D:\PemrogramanII_PBO\Pertemuan04\Praktikum\P4_1_714220044\P4_1_714220044\P4_1_714220044\Program.cs 15 Active, Code pada baris 15 (myType) memiliki perlindungan(protected) hanya dapat diakses dari class itu sendiri atau class lain yang merupakan turunan (inherits) dari class yang bersangkutan.
+
+19. Tidak Memunculkan Apa-Apa di console karena Variable myType Kosong atau (NULL) isi nya.
+
+20. Dari Objek variabel "myProduct" dengan tipe data string dan properti myType berisi "DVD" lalu mencetak properti myType menggunakan "Console.WriteLine(myProduct.myType)";
+
+Bagian 2
+
+8. Properti Mytitle sudah ada pada class product constructor dan Mytitle belum dijadikan base class pada class Book    atau kelas turunan tersebut
+
+12. Karena pada class book sudah di panggil base class nya atau class turunan tersebut yang ada pada class product constructor public product_714220044(string type, string title)
+
