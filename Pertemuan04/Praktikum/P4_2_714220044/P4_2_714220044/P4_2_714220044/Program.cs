@@ -43,10 +43,11 @@ namespace P4_2_714220044
 
             //Constructor
             Console.WriteLine("Constructor:");
-            Kucing meow = new Kucing("Garfield", "4 kaki","Jantan", 20);
+            Kucing meow = new Kucing("Garfield", 4, "Jantan", "Orange", 15);
             Console.WriteLine(meow.nama);
             Console.WriteLine(meow.kaki);
             Console.WriteLine(meow.jeniskelamin);
+            Console.WriteLine(meow.warnabulu);
             Console.WriteLine(meow.umur);
 
             Console.WriteLine();
