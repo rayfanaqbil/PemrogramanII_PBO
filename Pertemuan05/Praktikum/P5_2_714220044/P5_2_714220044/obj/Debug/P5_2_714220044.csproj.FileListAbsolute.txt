@@ -1,0 +1,11 @@
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\bin\Debug\P5_2_714220044.exe.config
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\bin\Debug\P5_2_714220044.exe
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\bin\Debug\P5_2_714220044.pdb
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.csproj.AssemblyReference.cache
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.ChildForm.resources
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.ParentForm.resources
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.Properties.Resources.resources
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.csproj.GenerateResource.cache
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.csproj.CoreCompileInputs.cache
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.exe
+D:\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_2_714220044\P5_2_714220044\obj\Debug\P5_2_714220044.pdb
