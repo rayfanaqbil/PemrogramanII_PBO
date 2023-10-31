@@ -1,0 +1,10 @@
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\bin\Debug\P5_4_714220044.exe.config
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\bin\Debug\P5_4_714220044.exe
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\bin\Debug\P5_4_714220044.pdb
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.csproj.AssemblyReference.cache
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.Form1.resources
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.Properties.Resources.resources
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.csproj.GenerateResource.cache
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.csproj.CoreCompileInputs.cache
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.exe
+D:\C#\Praktikum\P5_4_714220044\P5_4_714220044\obj\Debug\P5_4_714220044.pdb
