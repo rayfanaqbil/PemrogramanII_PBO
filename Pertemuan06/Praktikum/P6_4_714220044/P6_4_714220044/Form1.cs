@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -28,15 +29,22 @@ namespace P6_4_714220044
             string IsKonfirm1 = txtKonfirmasi1.Text;
             string IsKonfirm2 = txtKonfirmasi2.Text;
 
-            if (Isnama != "" &&  IsUpDown != "" && IsCbKelamin != "" && IsEmail != "" && IsPonsel != "" && IsKonfirm1.All(Char.IsUpper) && IsKonfirm1 == "KONFIRMASI" && IsKonfirm2.All(Char.IsLower) && IsKonfirm2 == "konfirmasi")
+            if (Isnama != "" && IsUpDown != "" && IsCbKelamin != "" && Regex.IsMatch(txtEmail.Text, @"^[^@\s]+@[^@\s]+(\.[^@\s]+)+$") && IsKonfirm1.All(Char.IsUpper) && IsKonfirm1 == "KONFIRMASI" && IsKonfirm2.All(Char.IsLower) && IsKonfirm2 == "konfirmasi")
             {
-                MessageBox.Show("Nama: " + Isnama + "\nJumlah Tiket: " + IsUpDown + "\nJenis Kelamin : " + IsCbKelamin + "\nEmail : " + IsEmail + "\nNomer Ponsel : " + IsPonsel, "Data Pembelian Tiket", MessageBoxButtons.OK, MessageBoxIcon.Information);
+       
+                if (IsPonsel.Length >= 10 && IsPonsel.Length <= 12 && IsPonsel.All(char.IsDigit))
+                {
+                    MessageBox.Show("Nama: " + Isnama + "\nJumlah Tiket: " + IsUpDown + "\nJenis Kelamin : " + IsCbKelamin + "\nEmail : " + IsEmail + "\nNomer Ponsel : " + IsPonsel, "Data Pembelian Tiket", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("Perbaiki Form Box Nomor Ponsel", "Terjadi Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
             }
             else
             {
                 MessageBox.Show("Perbaiki Form Box", "Terjadi Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-
         }
         private void btnClose_Click(object sender, EventArgs e)
         {
