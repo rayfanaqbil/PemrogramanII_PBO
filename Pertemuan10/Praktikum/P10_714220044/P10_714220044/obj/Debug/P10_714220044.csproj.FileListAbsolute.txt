@@ -42,3 +42,4 @@ D:\PemrogramanII_PBO\Pertemuan10\Praktikum\P10_714220044\P10_714220044\obj\Debug
 D:\PemrogramanII_PBO\Pertemuan10\Praktikum\P10_714220044\P10_714220044\obj\Debug\P10_714220044.pdb
 D:\PemrogramanII_PBO\Pertemuan10\Praktikum\P10_714220044\P10_714220044\obj\Debug\P10_714220044.view.ParentForm.resources
 D:\PemrogramanII_PBO\Pertemuan10\Praktikum\P10_714220044\P10_714220044\obj\Debug\P10_714220044.view.FormNilai.resources
+D:\PemrogramanII_PBO\Pertemuan10\Praktikum\P10_714220044\P10_714220044\obj\Debug\P10_714220044.view.FormBarang.resources
