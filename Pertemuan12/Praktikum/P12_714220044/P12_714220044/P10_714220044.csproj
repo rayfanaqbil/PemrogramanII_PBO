@@ -139,6 +139,12 @@
     <Compile Include="view\ParentForm.Designer.cs">
       <DependentUpon>ParentForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="view\StartUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\StartUp.Designer.cs">
+      <DependentUpon>StartUp.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="view\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -162,6 +168,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="view\ParentForm.resx">
       <DependentUpon>ParentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\StartUp.resx">
+      <DependentUpon>StartUp.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
